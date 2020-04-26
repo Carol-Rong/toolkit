@@ -1,0 +1,6 @@
+/.idea
+/build
+/install
+tank
+tank.bat
+*.pyc
